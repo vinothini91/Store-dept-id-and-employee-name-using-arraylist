@@ -1,7 +1,6 @@
 package hello;
 
 
-
 	public class Department {
 
 		
@@ -20,4 +19,4 @@ package hello;
 		}
 
 	}
-}
+
