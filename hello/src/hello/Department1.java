@@ -1,6 +1,6 @@
 package hello;
 
-public class Department1 {
+
 
 	public class Department {
 
